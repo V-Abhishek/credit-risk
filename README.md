@@ -22,7 +22,7 @@ Credit Card and home ownership loans are some examples of credit provided by the
 
 **Exposure at Default - The total value that a lender is exposed to when a borrower defaults.**<br />
 
-We have built PD, LGD and EAD models and combined them to calculate the Expected Loss of the entire portfolio (Lenders Club).
+<p> We have built PD, LGD and EAD models and combined them to calculate the Expected Loss of the entire portfolio (Lenders Club).</p>
 ---
 
 ### Project Structure
@@ -34,7 +34,7 @@ We have built PD, LGD and EAD models and combined them to calculate the Expected
 	1. Data Preparation.ipynb - Details the process of data cleansing and extracting the data for building models	
 	2. Probability of Default Model.ipynb - Details the process of building Probability of Default(PD) model and validating its accuracy using **Gini and Kolmogorov coefficents**
 	3. Expected Loss.ipynb - Details the process of building Loss Given Default(LGD) and Exposure at Default(EAD) models. Finally, illustrates process of combining all three models to calculate Expected Loss
-3. Models folder contains PD, LGD Stage I and LGD Stage II models exported and saved with .sav extension
+3. Models folder contains PD, LGD Stage-I and LGD Stage-II models exported and saved with .sav extension
 4. Preprocessed Data folder contains data exported into .csv files after data cleansing 	
 
 ---
