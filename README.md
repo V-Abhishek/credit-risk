@@ -25,6 +25,11 @@ Credit Card and home ownership loans are some examples of credit provided by the
 <p> We have built PD, LGD and EAD models and combined them to calculate the Expected Loss of the entire portfolio (Lenders Club).</p>
 
 ---
+### Data
+
+Lenders Club Consumer Loan issued from 2007 to 2015 was used as the dataset for this project. You can download the data from [Kaggle](https://www.kaggle.com/datasets) 
+
+---
 
 ### Project Structure
 
