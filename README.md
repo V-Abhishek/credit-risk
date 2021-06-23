@@ -48,4 +48,4 @@ Credit Card and home ownership loans are some examples of credit provided by the
 ### INSTALL AND RUN
 
 - Install Jupyter Notebook
-- Import the notebook(.ipynb) files into Jupyter# credit-risk
+- Import the notebook(.ipynb) files into Jupyter Notebook
