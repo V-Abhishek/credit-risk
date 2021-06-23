@@ -28,15 +28,11 @@ Credit Card and home ownership loans are some examples of credit provided by the
 
 ### Project Structure
 
-1. Data folder contains the dataset used for the project
-	1. loan_data_2007_2014.csv - Consumer Loans lent by Lenders Club from 2007 to 2014
-	2. original.xlsx - Defines each column in the dataset (loan_data_2007_2014.csv)
-2. Programs folder contains Jupyter Notebooks explaining each process of building the models in detail
+1. Programs folder contains Jupyter Notebooks explaining each process of building the models in detail
 	1. Data Preparation.ipynb - Details the process of data cleansing and extracting the data for building models	
 	2. Probability of Default Model.ipynb - Details the process of building Probability of Default(PD) model and validating its accuracy using **Gini and Kolmogorov coefficents**
 	3. Expected Loss.ipynb - Details the process of building Loss Given Default(LGD) and Exposure at Default(EAD) models. Finally, illustrates process of combining all three models to calculate Expected Loss
-3. Models folder contains PD, LGD Stage-I and LGD Stage-II models exported and saved with .sav extension
-4. Preprocessed Data folder contains data exported into .csv files after data cleansing 	
+2. Models folder contains PD, LGD Stage-I and LGD Stage-II models exported and saved with .sav extension
 
 ---
 
