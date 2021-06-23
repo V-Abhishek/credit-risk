@@ -23,6 +23,7 @@ Credit Card and home ownership loans are some examples of credit provided by the
 **Exposure at Default - The total value that a lender is exposed to when a borrower defaults.**<br />
 
 <p> We have built PD, LGD and EAD models and combined them to calculate the Expected Loss of the entire portfolio (Lenders Club).</p>
+
 ---
 
 ### Project Structure
